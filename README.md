@@ -3,7 +3,7 @@
 </p>
 
 # Data Challenge - Machine Learning for anomaly detection
-Author : Delarue Simon
+Author : Delarue Simon  
 February 2021
 
 **Objective**  
